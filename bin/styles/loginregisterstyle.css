@@ -1,0 +1,9 @@
+.root {
+	-fx-font-family: tahoma;
+	-fx-font-weight: bold;
+	-fx-background-color: #6495ED;
+}
+
+.label {
+	-fx-text-fill: white;
+}

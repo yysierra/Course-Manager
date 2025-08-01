@@ -1,0 +1,14 @@
+.root {
+	-fx-background-color: darkblue;
+}
+
+.button {
+	-fx-background-color: steelblue;
+	-fx-font-family: tahoma;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+}
+
+.course-button-highlighted:pressed {
+    -fx-background-color: lightblue; 
+}
